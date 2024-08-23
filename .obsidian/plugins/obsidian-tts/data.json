@@ -1,0 +1,15 @@
+{
+  "defaultVoice": "Microsoft Yaoyao - Chinese (Simplified, PRC)",
+  "pitch": 1,
+  "rate": 0.8,
+  "volume": 1,
+  "speakLinks": false,
+  "speakFrontmatter": false,
+  "speakSyntax": false,
+  "speakTitle": true,
+  "speakCodeblocks": false,
+  "speakEmoji": false,
+  "speakComments": false,
+  "languageVoices": [],
+  "stopPlaybackWhenNoteChanges": false
+}
