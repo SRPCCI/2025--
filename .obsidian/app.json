@@ -1,0 +1,12 @@
+{
+  "alwaysUpdateLinks": true,
+  "promptDelete": true,
+  "showLineNumber": true,
+  "spellcheck": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "inbox",
+  "attachmentFolderPath": "attachment",
+  "trashOption": "local",
+  "legacyEditor": false,
+  "readableLineLength": true
+}

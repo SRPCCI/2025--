@@ -1,0 +1,13 @@
+{
+  "accentColor": "#246dc2",
+  "theme": "moonstone",
+  "baseFontSize": 22,
+  "interfaceFontFamily": "3DS Fonticon",
+  "cssTheme": "Minimal",
+  "enabledCssSnippets": [
+    "【自定义】彩色时钟样式",
+    "【自定义】数字时钟",
+    "strongtypeface"
+  ],
+  "monospaceFontFamily": "JetBrains Mono"
+}

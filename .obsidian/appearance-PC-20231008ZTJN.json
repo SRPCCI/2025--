@@ -1,0 +1,12 @@
+{
+  "accentColor": "",
+  "theme": "moonstone",
+  "baseFontSize": 22,
+  "interfaceFontFamily": "3DS Fonticon",
+  "cssTheme": "Minimal",
+  "enabledCssSnippets": [
+    "strongtypeface",
+    "【自定义】数字时钟",
+    "【自定义】彩色时钟样式"
+  ]
+}
